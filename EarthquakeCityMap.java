@@ -23,7 +23,6 @@ import processing.core.PApplet;
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data
  * @author:Tingzhe Wang
- * Date: July 17, 2015
  * */
 public class EarthquakeCityMap extends PApplet {
 	
