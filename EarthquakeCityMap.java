@@ -26,11 +26,6 @@ import processing.core.PApplet;
  * */
 public class EarthquakeCityMap extends PApplet {
 	
-	// We will use member variables, instead of local variables, to store the data
-	// that the setUp and draw methods will need to access (as well as other methods)
-	// You will use many of these variables, but the only one you should need to add
-	// code to modify is countryQuakes, where you will store the number of earthquakes
-	// per country.
 	
 	// You can ignore this.  It's to get rid of eclipse warnings
 	private static final long serialVersionUID = 1L;
